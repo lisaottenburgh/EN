@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site en",
-    "currentPage": "page1.html",
+    "currentPage": "page4.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 80,
     "versionPublish": "4.6.5",
@@ -1092,11 +1092,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline mbr-article>&nbsp;Commissioned work\n for the exihibition 'Fear' in the Dr. Guislain Museum.</div>\n        </div>\n    </div>\n</section>",
           "_cid": "qMhOKKnyuo",
+          "_anchor": "content1-25",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-25"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1802,11 +1802,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Two page story in Chinese ink, acrylic and crayons on paper. &nbsp;</div>\n        </div>\n    </div>\n</section>",
           "_cid": "qMhLQ3s2Tg",
+          "_anchor": "content1-24",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-24"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2344,11 +2344,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Sketchbook 2017-2018: preparatory sketches\n for the exihibition in the Dr. Guislain museum.&nbsp;</div>\n        </div>\n    </div>\n</section>",
           "_cid": "qMhJcaQp1e",
+          "_anchor": "content1-23",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-23"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2842,18 +2842,6 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/scan-20180224-6-2000x1619.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-20180224-6-2000x1619-800x647.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -2942,8 +2930,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/scan-20180224-15-2000x1603.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-20180224-15-2000x1603-800x641.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-20180224.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-20180224-800x641.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -2954,8 +2942,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/scan-20180224-16-2000x1569.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-20180224-16-2000x1569-800x627.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-20180225.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-20180225-800x622.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -2978,8 +2966,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/scan-20180224-18-2000x1603.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-20180224-18-2000x1603-800x641.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-20180226.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-20180226-799x632.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan-20180227.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-20180227-800x632.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
